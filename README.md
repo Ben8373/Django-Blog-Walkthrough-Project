@@ -1,1 +1,1 @@
-# Django-Blog-Walkthrough-Project
+# codestar_blog
