@@ -30,5 +30,5 @@ wheels/
 .DS_Store
 *.db
 *.sqlite3
-db.sqlite3
-venv/ 
+db.sqlite
+venv/
